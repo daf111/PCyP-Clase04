@@ -1,0 +1,5 @@
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\3 - IntegerTask\IntegerTask\bin\Debug\IntegerTask.exe
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\3 - IntegerTask\IntegerTask\bin\Debug\IntegerTask.pdb
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\3 - IntegerTask\IntegerTask\obj\x86\Debug\IntegerTask.csprojResolveAssemblyReference.cache
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\3 - IntegerTask\IntegerTask\obj\x86\Debug\IntegerTask.exe
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\3 - IntegerTask\IntegerTask\obj\x86\Debug\IntegerTask.pdb

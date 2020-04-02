@@ -1,0 +1,7 @@
+E:\dfernandez\Desktop\Chapter 2\1 - TwoTasks\TwoTasks\bin\Debug\TwoTasks.exe
+E:\dfernandez\Desktop\Chapter 2\1 - TwoTasks\TwoTasks\bin\Debug\TwoTasks.pdb
+E:\dfernandez\Desktop\Chapter 2\1 - TwoTasks\TwoTasks\obj\x86\Debug\TwoTasks.csprojResolveAssemblyReference.cache
+E:\dfernandez\Desktop\Chapter 2\1 - TwoTasks\TwoTasks\obj\x86\Debug\TwoTasks.exe
+E:\dfernandez\Desktop\Chapter 2\1 - TwoTasks\TwoTasks\obj\x86\Debug\TwoTasks.pdb
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\1 - TwoTasks\TwoTasks\obj\x86\Debug\TwoTasks.exe
+E:\OneDrive - UNIVERSIDAD ABIERTA INTERAMERICANA\Profesor\UNPaz\Programacion Concurrente y Paralela\2020\Clase04\Examples\1 - TwoTasks\TwoTasks\obj\x86\Debug\TwoTasks.pdb
